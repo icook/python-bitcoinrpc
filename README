@@ -1,3 +1,5 @@
+**This fork of python-bitcoinrpc makes use of urllib3 to handle connections for thread safety and automatic connection pooling**
+
 AuthServiceProxy is an improved version of python-jsonrpc.
 
 It includes the following generic improvements:
